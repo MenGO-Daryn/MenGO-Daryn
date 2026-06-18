@@ -51,8 +51,6 @@ I'm **Daryn**, an IT student just starting out in web development. I'm gradually
 
 </div>
 
-> This image appears once you add the included `snake.yml` workflow to your profile repo and run it — see the setup note below.
-
 # 💬 Let's Connect
 
 * 💬 Telegram: [@MenGO_Daryn](https://t.me/MenGO_Daryn)
